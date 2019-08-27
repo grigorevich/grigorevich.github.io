@@ -1,0 +1,578 @@
+.header{
+	background-image: url('../img/photo c6.png');
+	width: 1467px;
+	height: 813px;
+	text-align: center;
+}
+.header h2{
+	font-family: exo-thin, arial;
+	font-size: 60px;
+	letter-spacing: 2.4px;
+	padding-top: 225px;
+}
+.header img{
+	padding: 43px;
+}
+.header button{
+	width: 190px;
+	height: 50px;
+	border-radius: 3px;
+	background-color: #ff6d6d;
+}
+.header h5{
+	padding: 19px;
+}
+/*Второй болок*/
+#bloc-too{
+	width: 1467px;
+	height: 724px;
+	display: flex;
+	
+	
+}
+#bloc-too_laft{
+	width: 872px;
+	height: 724px;
+	display: inline-block;
+	
+}
+#bloc-too_right{
+	width: 595px;
+	height: 724px;
+	background: #ececec;
+	display: inline-block;
+	position: relative;
+	
+	}
+#bloc-too_right img{
+	position: absolute;
+	bottom: 0px;
+}
+#bloc-too_laft h3{
+	padding-top: 190px;
+	padding-left: 150px;
+	color: #ff6d6d;
+	font-family: Exo;
+
+
+}
+#bloc-too_laft h2{
+	margin-top: 16px;
+	font-family: Exo;
+	font-size: 40px;
+	width: 532px;
+	height: 93px;
+	margin-left: 150px;
+	padding-top: 0px;
+}
+#bloc-too_laft_text{
+	margin-left: 150px;
+	/*background: blue;*/
+	margin-top: 45px;
+	width: 571px;
+	height: 200px;
+	color: #282828;
+	font-family: Exo;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 26px;
+	
+}
+	/*Блок три*/
+#bloc-three{
+	width: 1467px;
+	height: 675px;
+	background-color: #f6f5f3;
+	text-align: center;
+	}
+#obch{
+	display: block;
+	display: inline-block;
+	vertical-align: top;
+	
+	width: 750px;
+	text-align: center;
+	height: auto;
+}
+#nauchniki{
+	vertical-align: top;
+}
+#ruchki{
+	margin-left: 0px;
+
+}
+#obch h4{
+margin-top: 138px;
+color: #ff6d6d;
+font-family: Exo;
+font-size: 16px;
+font-weight: 500;
+}
+#obch h2{
+	
+color: #282828;
+font-family: Exo;
+font-size: 40px;
+font-weight: 500;
+}
+.fotki{
+	display: block;
+	width: 350px;
+	text-align: center;
+	display: inline-block;
+}
+.fotki h1{
+	
+	color: #282828;
+	font-family: Exo;
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 49.97px;
+}
+.fotki p{
+width: 342px;
+height: 70px;
+opacity: 0.66;
+color: #282828;
+font-family: Exo;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+}
+.samolet{
+	display: block;
+	width: 350px;
+	text-align: center;
+	
+	display: inline-block;
+	margin-left: 46px;
+	margin-right: 46px;
+}
+.samolet h1{
+	
+	color: #282828;
+	font-family: Exo;
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 49.97px;
+}
+.samolet p{
+width: 342px;
+height: 70px;
+opacity: 0.66;
+color: #282828;
+font-family: Exo;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+}
+.lampa{
+	display: block;
+	width: 350px;
+	text-align: center;
+	display: inline-block;
+}
+.lampa h1{
+	
+	color: #282828;
+	font-family: Exo;
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 49.97px;
+}
+.lampa p{
+width: 342px;
+height: 70px;
+opacity: 0.66;
+color: #282828;
+font-family: Exo;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+}
+#chashka{
+	
+	margin-top: 52px;
+	margin-left: 1100px;
+}
+/*Блок четыри*/
+#bloc-four{
+	height: 550px;
+	width: 1467px;
+	background: #ffffff;
+	vertical-align: middle;
+	background: url('../img/Rectangle_21_copy_2.png');
+	background-position: right 700px top -100px;
+	background-repeat: no-repeat;
+}
+#bloc-four img{
+	margin-left: 50px;
+	width: 630px;
+	height: 367px;
+	margin-top: 93px;
+	
+}
+#bloc-four-right{
+	width: 630px;
+	height: 367px;
+	
+	float: right;
+	margin-top: 93px;
+	margin-right: 150px
+
+}
+#bloc-four-right h3{
+	padding-top: 48px;
+	padding-left: 54px;
+	color: #ff6d6d;
+	font-family: Exo;
+
+
+}
+#bloc-four-right h2{
+	margin-top: 16px;
+	font-family: Exo;
+	font-size: 40px;
+	width: 532px;
+	height: 93px;
+	margin-left: 54px;
+	padding-top: 0px;
+}
+#point{
+	margin-left: 54px;
+	/*background: blue;*/
+	margin-top: 45px;
+	width: 571px;
+	height: 200px;
+	color: #282828;
+	font-family: Exo;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 26px;
+	
+}
+#bloc-five{
+	background-color: #28292f;
+	width: 1467px;
+	height: 648px;
+	padding-top: 110px;
+
+}
+.bloc-five-one{
+	
+	width: 324px;
+	text-align: center;
+	margin-left: 33px;
+	display: inline-block;
+	margin-right: 33px
+}
+.square{
+	width: 76px;
+	height: 76px;
+	border: 2px solid #1d1e24;
+	background-color: #4e4e5e;
+	margin: auto;
+	
+	
+}
+.bloc-five-one-h3{
+
+height: 25px;
+color: #ffffff;
+font-family: Exo;
+font-size: 22px;
+font-weight: 500;
+/*line-height: 49.97px;
+/* Text style for "J, onathon" */
+/*letter-spacing: 0.88px;*/
+
+margin-top: 26px;
+}
+.bloc-five-one-h2{
+	
+	height: 13px;
+	color: #ff6d6d;
+	font-family: Exo;
+	font-size: 16px;
+	font-weight: 500;
+	/*line-height: 49.97px;*/
+	margin-top: 12px;
+}
+.bloc-five-one-p{
+	width: 324px;
+	height: 96px;
+	opacity: 0.66;
+	color: #ffffff;
+	font-family: "Exo - Regular";
+	font-size: 16px;
+	font-weight: 400;
+	font-style: italic;
+	line-height: 26px;
+	/* Text style for "“Aenean eu" */
+	letter-spacing: 0.64px;
+	margin-top: 37px;
+}
+
+#bloc-five-one__three{
+	vertical-align: top;
+}
+#bloc-five-one__one{
+	margin-left: 160px;
+}
+.hits{
+	filter: brightness(0) invert(1);
+}
+.rvlvr{
+	margin-left: 89px;
+	filter: brightness(0) invert(1);
+}
+.eatfindr{
+	margin-left: 106px;
+	filter: brightness(0) invert(1);
+}
+.igor{
+	margin-left: 113px;
+	filter: brightness(0) invert(1);
+}
+.sienna{
+	margin-left: 102px;
+	filter: brightness(0) invert(1);
+}
+#centr{
+	text-align: center;
+	margin-top: 105px;
+}
+/*Блок шесть*/
+.bloc-six{
+	background: #f6f5f3;
+	width: 1467px;
+	height: 754px;
+	text-align: center;
+
+}
+.new{
+	
+	margin-top: 108px;
+	width: 160px;
+	height: 30px;
+	color: #ff6d6d;
+	font-family: Exo;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 25px;
+	text-transform: uppercase;
+	/* Text style for "N, EW FEAT" */
+	letter-spacing: 3.2px;
+	margin-left: auto;
+    margin-right: auto;
+}
+.some{
+	margin-top: 13px;
+	width: 700px;
+	height: 34px;
+	color: #282828;
+	font-family: Exo;
+	font-size: 40px;
+	font-weight: 500;
+	line-height: 49.97px;
+	/* Text style for "S, ome awe" */
+	letter-spacing: 1.6px;
+	margin-left: auto;
+    margin-right: auto;
+    
+}
+.des{
+	margin-top: 48px;
+	width: 650px;
+	height: 70px;
+	opacity: 0.66;
+	color: #282828;
+	font-family: Exo;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 26px;
+	/* Text style for "Aenean eu" */
+	letter-spacing: 0.64px;
+	text-align: center;
+	
+	margin-left: auto;
+    margin-right: auto;
+}
+.site{
+	margin-top: 35px;
+}
+.seven{
+	width: 1467px;
+	height: 467px;
+	background-color: #323969;
+	position: relative;
+	padding-top: 98px;
+
+}
+.seven-new{
+	
+	width: 160px;
+	height: 20px;
+	color: #ff6d6d;
+	font-family: Exo;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 20px;
+	text-transform: uppercase;
+	/* Text style for "N, EW FEAT" */
+	letter-spacing: 3.2px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.some-new{
+	
+	width: 655px;
+	height: 42px;
+	color: #ffffff;
+	font-family: Exo;
+	font-size: 40px;
+	font-weight: 500;
+	line-height: 43px;
+	/* Text style for "O, ver 100" */
+	letter-spacing: 1.6px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+}
+.des2{
+	
+	width: 200px;
+	height: 25px;
+	opacity: 0.66;
+	color: white;
+	font-family: Exo;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 26px;
+	/* Text style for "Aenean eu" */
+	letter-spacing: 0.64px;
+	text-align: center;
+	display: inline-block;
+	margin-top: 32px; 
+	margin-bottom: 25px;
+}
+#arrow{
+	padding-left: 1010px;
+	
+	position: relative;
+	top: 33px;
+	left: 20px;
+	}
+.field{
+	width: 263px;
+	height: 49px;
+	border-radius: 3px;
+	border: 1px solid #ffffff;
+	background-color: #f6f5f3;
+	opacity: 0.5;
+	margin: 15px;
+	text-indent: 15px;
+}
+.button{
+	width: 258px;
+	height: 50px;
+	box-shadow: 0 3px 3px rgba(14, 15, 15, 0.25);
+	border-radius: 3px;
+	border: 1px solid #ff6d6d;
+	background-color: #ff6d6d;
+	margin: 15px;}
+#centr2{
+	text-align: center;
+	padding-right: 15px;
+	margin: 0px;
+
+}
+.des3{
+	width: 400px;
+	height: 25px;
+	opacity: 0.66;
+	color: white;
+	font-family: Exo;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 26px;
+	/* Text style for "Aenean eu" */
+	letter-spacing: 0.64px;
+	margin-top: 32px; 
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.eight{
+	width: 1467px;
+	height: 350px;
+	padding-left: 153px;
+	padding-top: 95px;
+}
+.eight-own{
+	display: inline-block;
+
+}
+.eight-own-h3{
+	color: #2c2f49;
+	font-family: Lato;
+	font-size: 27px;
+	font-weight: 400;
+	line-height: 33.6px;
+	/* Text style for "Ex" */
+	color: #282828;
+	padding-bottom: 28px;
+}
+.eight-own-p{
+	width: 231px;
+	height: 89px;
+	opacity: 0.56;
+	color: #282828;
+	font-family: Exo;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 26px;
+	/* Text style for "Aenean lac" */
+	letter-spacing: 0.56px;
+}
+.support{
+	vertical-align: top;
+	margin-left: 67px;
+}
+.Help-Center{
+	width: 100px;
+	height: 75px;
+}
+.About{
+margin-left: 115px;
+}
+.EMAIL{
+	width: 263px;
+	height: 49px;
+	border-radius: 3px;
+	border: 1px solid #4e4e5e;
+	padding-left: 28px;
+	opacity: 0.4;
+	margin: 0px;
+	}
+.em{
+	background-color: #ff6d6d;
+	height: 49px;
+	width: 50;
+	border-radius: 10px;
+}
+.ikonki{
+	margin-top: 21px;
+	text-align: center;
+}
+.ikonki img{
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.kar{
+	
+	
+	height: 350px;
+	width: 50px;
+	display: inline-block;
+}
